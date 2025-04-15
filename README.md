@@ -8,7 +8,7 @@ This project is a Streamlit-powered application that allows users to upload rese
 
 Watch a quick walkthrough of how to use the app on Hugging Face Spaces:
 
-[![Demonstration Video](https://img.youtube.com/vi/placeholder/0.jpg)](https://github.com/user-attachments/assets/8b03e726-1e8c-417a-ae1d-bcc59e500893)
+[![Demonstration Video](https://img.youtube.com/vi/placeholder/0.jpg)](https://github.com/user-attachments/assets/31be46ab-c22f-4e41-af2d-61141bf283fd)
 
 ---
 
